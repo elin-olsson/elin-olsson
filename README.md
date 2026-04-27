@@ -24,8 +24,8 @@ Network security specialist focused on firewall design, cryptography, routing pr
 | Tool | Description | Status |
 |------|-------------|--------|
 | [ssh-tls-auditor](https://github.com/elin-olsson/ssh-tls-auditor) | SSH & TLS/HTTPS configuration auditor | ✅ Public |
-| [chain-watch](https://github.com/elin-olsson/chain-watch) | TLS certificate chain monitor & alerter | ✅ Public |
-| [fox-trace](https://github.com/elin-olsson/fox-trace) | SSH trust & lateral movement mapper | 🔒 Coming soon |
+| [chain-watch](https://github.com/elin-olsson/chain-watch) | Security log correlator — detects brute force, port scans & lateral movement | ✅ Public |
+| [fox-trace](https://github.com/elin-olsson/fox-trace) | SSH trust & lateral movement mapper | ✅ Public |
 | [ghost-trail](https://github.com/elin-olsson/ghost-trail) | Linux forensic timeline reconstructor | 🔒 Coming soon |
 
 ---
