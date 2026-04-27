@@ -30,6 +30,17 @@ Network security specialist focused on firewall design, cryptography, routing pr
 
 ---
 
+## Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elin-olsson&show_icons=true&count_private=true&bg_color=0d141b&title_color=00d4ff&icon_color=00d4ff&text_color=c0caf5&border_color=1a2a3a)](https://github.com/elin-olsson)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elin-olsson&layout=compact&bg_color=0d141b&title_color=00d4ff&text_color=c0caf5&border_color=1a2a3a)](https://github.com/elin-olsson)
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
