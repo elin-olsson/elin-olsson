@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050a0f,50:0d141b,100:050a0f&text=Elin%20Olsson&fontSize=52&fontColor=00d4ff&desc=Network%20Security%20Specialist&descSize=22&descAlignY=62&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Firewall+Design+%C2%B7+Cryptography+%C2%B7+Incident+Response;OSPF+%C2%B7+BGP+%C2%B7+VPN+%C2%B7+Network+Segmentation;Python+%C2%B7+Bash+%C2%B7+D3.js+%C2%B7+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&background=0d141b&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Firewall+Design+%C2%B7+Cryptography+%C2%B7+Incident+Response;OSPF+%C2%B7+BGP+%C2%B7+VPN+%C2%B7+Network+Segmentation;Python+%C2%B7+Bash+%C2%B7+D3.js+%C2%B7+Linux)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,8 @@ Network security specialist focused on firewall design, cryptography, routing pr
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/shadowfox.se-00d4ff?style=for-the-badge&logo=firefox&logoColor=0d141b)](https://shadowfox.se)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
+[![Website](https://img.shields.io/badge/shadowfox.se-0e6b7a?style=for-the-badge&logo=firefox&logoColor=e0f7fa)](https://shadowfox.se)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-0369a1?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
 
 </div>
 
