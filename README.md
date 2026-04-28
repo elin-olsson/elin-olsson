@@ -8,12 +8,23 @@
 
 ---
 
+```bash
+shadowfox@security:~$ whoami
+Network security specialist. Builder of tools.
+
+shadowfox@security:~$ ls ./tools/
+ssh-tls-auditor    chain-watch    fox-trace    ghost-trail
+
+shadowfox@security:~$ cat mission.txt
+Open-source security tools. Built in the dark.
+```
+
 Network security specialist with a background in complex case assessment at a Swedish government agency. Sharp eye for patterns and risk — building open-source tools under the **ShadowFox** brand.
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/shadowfox.se-0e6b7a?style=for-the-badge&logo=firefox&logoColor=e0f7fa)](https://shadowfox.se)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20May%202026-0369a1?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
+[%[Open to Work](https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20May%202026-0369a1?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
 
 </div>
 
