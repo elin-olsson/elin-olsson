@@ -24,7 +24,7 @@ Network security specialist with a background in complex case assessment at a Sw
 <div align="center">
 
 [![Website](https://img.shields.io/badge/shadowfox.se-0e6b7a?style=for-the-badge&logo=firefox&logoColor=e0f7fa)](https://shadowfox.se)
-[%[Open to Work](https://img.shields.io/badge/Open%20to%20Work%20%C2%B7%20May%202026-0369a1?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
+[%[Open to Work](https://img.shields.io/badge/Open%20to%20Work-May%202026-0369a1?style=for-the-badge&logo=github&logoColor=white)](mailto:elin-olsson@hotmail.com)
 
 </div>
 
