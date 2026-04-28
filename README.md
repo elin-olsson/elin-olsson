@@ -8,7 +8,7 @@
 
 ---
 
-Network security specialist focused on firewall design, cryptography, routing protocol security, and incident response. Building open-source security tools under the **ShadowFox** brand.
+Network security specialist with a background in complex case assessment at a Swedish government agency. Sharp eye for patterns and risk — building open-source tools under the **ShadowFox** brand.
 
 <div align="center">
 
