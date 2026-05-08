@@ -13,7 +13,7 @@ shadowfox@security:~$ whoami
 Network security specialist. Builder of tools.
 
 shadowfox@security:~$ ls ./tools/
-ssh-tls-auditor    chain-watch    fox-trace    ghost-trail
+ssh-tls-auditor    chain-watch    fox-trace    ghost-trail    shadowfox-vdi
 
 shadowfox@security:~$ cat mission.txt
 Open-source security tools. Built in the dark.
