@@ -56,24 +56,38 @@ Network security specialist with a background in complex case assessment at a Sw
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a2a3a?style=flat-square&logo=python&logoColor=00d4ff)
-![Bash](https://img.shields.io/badge/Bash-1a2a3a?style=flat-square&logo=gnubash&logoColor=00d4ff)
-![D3.js](https://img.shields.io/badge/D3.js-1a2a3a?style=flat-square&logo=d3dotjs&logoColor=00d4ff)
-![Linux](https://img.shields.io/badge/Linux-1a2a3a?style=flat-square&logo=linux&logoColor=00d4ff)
-![Docker](https://img.shields.io/badge/Docker-1a2a3a?style=flat-square&logo=docker&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-1a2a3a?style=flat-square&logo=git&logoColor=00d4ff)
+**Security**
+
+![Suricata](https://img.shields.io/badge/Suricata-1a2a3a?style=flat-square&logo=suricata&logoColor=00d4ff)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-1a2a3a?style=flat-square&logoColor=00d4ff)
+![Lynis](https://img.shields.io/badge/Lynis-1a2a3a?style=flat-square&logoColor=00d4ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a2a3a?style=flat-square&logo=wireshark&logoColor=00d4ff)
+![nftables](https://img.shields.io/badge/nftables-1a2a3a?style=flat-square&logoColor=00d4ff)
+![UFW](https://img.shields.io/badge/UFW-1a2a3a?style=flat-square&logoColor=00d4ff)
+![pfSense](https://img.shields.io/badge/pfSense-1a2a3a?style=flat-square&logo=pfsense&logoColor=00d4ff)
+![OAuth2 / OIDC](https://img.shields.io/badge/OAuth2%20%2F%20OIDC-1a2a3a?style=flat-square&logo=openid&logoColor=00d4ff)
+
+**Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1a2a3a?style=flat-square&logo=cisco&logoColor=00d4ff)
 ![GNS3](https://img.shields.io/badge/GNS3-1a2a3a?style=flat-square&logo=gns3&logoColor=00d4ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1a2a3a?style=flat-square&logo=wireshark&logoColor=00d4ff)
-![Suricata](https://img.shields.io/badge/Suricata-1a2a3a?style=flat-square&logo=suricata&logoColor=00d4ff)
 ![WireGuard](https://img.shields.io/badge/WireGuard-1a2a3a?style=flat-square&logo=wireguard&logoColor=00d4ff)
 ![Tailscale](https://img.shields.io/badge/Tailscale-1a2a3a?style=flat-square&logo=tailscale&logoColor=00d4ff)
 
-![OSPF](https://img.shields.io/badge/OSPF-1a2a3a?style=flat-square&logoColor=00d4ff)
-![BGP](https://img.shields.io/badge/BGP-1a2a3a?style=flat-square&logoColor=00d4ff)
-![UFW](https://img.shields.io/badge/UFW-1a2a3a?style=flat-square&logoColor=00d4ff)
-![pfSense](https://img.shields.io/badge/pfSense-1a2a3a?style=flat-square&logo=pfsense&logoColor=00d4ff)
+**Frameworks & Infrastructure**
+
+![Flask](https://img.shields.io/badge/Flask-1a2a3a?style=flat-square&logo=flask&logoColor=00d4ff)
+![Nginx](https://img.shields.io/badge/Nginx-1a2a3a?style=flat-square&logo=nginx&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-1a2a3a?style=flat-square&logo=docker&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Linux-1a2a3a?style=flat-square&logo=linux&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-1a2a3a?style=flat-square&logo=git&logoColor=00d4ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a2a3a?style=flat-square&logo=githubactions&logoColor=00d4ff)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a2a3a?style=flat-square&logo=cloudflare&logoColor=00d4ff)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a2a3a?style=flat-square&logo=python&logoColor=00d4ff)
+![Bash](https://img.shields.io/badge/Bash-1a2a3a?style=flat-square&logo=gnubash&logoColor=00d4ff)
 
 </div>
 
