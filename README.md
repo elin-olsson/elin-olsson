@@ -57,7 +57,15 @@ Network security specialist with a background in complex case assessment at a Sw
 
 <div align="center">
 
-**Security**
+<table>
+<tr>
+<th>Security</th>
+<th>Networking</th>
+<th>Frameworks & Infrastructure</th>
+<th>Languages</th>
+</tr>
+<tr>
+<td>
 
 ![Suricata](https://img.shields.io/badge/Suricata-1a2a3a?style=flat-square&logo=suricata&logoColor=00d4ff)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-1a2a3a?style=flat-square&logoColor=00d4ff)
@@ -68,14 +76,16 @@ Network security specialist with a background in complex case assessment at a Sw
 ![pfSense](https://img.shields.io/badge/pfSense-1a2a3a?style=flat-square&logo=pfsense&logoColor=00d4ff)
 ![OAuth2 / OIDC](https://img.shields.io/badge/OAuth2%20%2F%20OIDC-1a2a3a?style=flat-square&logo=openid&logoColor=00d4ff)
 
-**Networking**
+</td>
+<td>
 
 ![Cisco](https://img.shields.io/badge/Cisco-1a2a3a?style=flat-square&logo=cisco&logoColor=00d4ff)
 ![GNS3](https://img.shields.io/badge/GNS3-1a2a3a?style=flat-square&logo=gns3&logoColor=00d4ff)
 ![WireGuard](https://img.shields.io/badge/WireGuard-1a2a3a?style=flat-square&logo=wireguard&logoColor=00d4ff)
 ![Tailscale](https://img.shields.io/badge/Tailscale-1a2a3a?style=flat-square&logo=tailscale&logoColor=00d4ff)
 
-**Frameworks & Infrastructure**
+</td>
+<td>
 
 ![Flask](https://img.shields.io/badge/Flask-1a2a3a?style=flat-square&logo=flask&logoColor=00d4ff)
 ![Nginx](https://img.shields.io/badge/Nginx-1a2a3a?style=flat-square&logo=nginx&logoColor=00d4ff)
@@ -85,10 +95,15 @@ Network security specialist with a background in complex case assessment at a Sw
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a2a3a?style=flat-square&logo=githubactions&logoColor=00d4ff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-1a2a3a?style=flat-square&logo=cloudflare&logoColor=00d4ff)
 
-**Languages**
+</td>
+<td>
 
 ![Python](https://img.shields.io/badge/Python-1a2a3a?style=flat-square&logo=python&logoColor=00d4ff)
 ![Bash](https://img.shields.io/badge/Bash-1a2a3a?style=flat-square&logo=gnubash&logoColor=00d4ff)
+
+</td>
+</tr>
+</table>
 
 </div>
 
