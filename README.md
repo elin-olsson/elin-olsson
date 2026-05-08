@@ -38,6 +38,7 @@ Network security specialist with a background in complex case assessment at a Sw
 | [chain-watch](https://github.com/elin-olsson/chain-watch) | Security log correlator — detects brute force, port scans & lateral movement | ✅ Public |
 | [fox-trace](https://github.com/elin-olsson/fox-trace) | SSH trust & lateral movement mapper | ✅ Public |
 | [ghost-trail](https://github.com/elin-olsson/ghost-trail) | Linux forensic timeline reconstructor | ✅ Public |
+| [shadowfox-vdi](https://vdi.shadowfox.se) | Self-hosted VDI — Flask, TigerVNC, noVNC, Cloudflare Tunnel, per-user Linux isolation | 🔒 Private |
 
 ---
 
