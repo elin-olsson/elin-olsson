@@ -39,7 +39,7 @@ Network security specialist with a background in complex case assessment at a Sw
 | [fox-trace](https://github.com/elin-olsson/fox-trace) | SSH trust & lateral movement mapper | ✅ Public |
 | [ghost-trail](https://github.com/elin-olsson/ghost-trail) | Linux forensic timeline reconstructor | ✅ Public |
 | [shadowfox-vdi](https://vdi.shadowfox.se) | Self-hosted VDI — Flask, TigerVNC, noVNC, ttyd, Cloudflare Tunnel, per-user Linux isolation | 🔒 Private |
-| [shadowfox-systems](https://github.com/elin-olsson/shadowfox-systems) | Home server infrastructure — Docker stack, AdGuard, Cloudflare Tunnel, Tailscale, self-hosted services | ✅ Public |
+| [shadowfox-systems](https://github.com/elin-olsson/shadowfox-systems) | Home server infrastructure — Docker stack, AdGuard, Cloudflare Tunnel, Tailscale, self-hosted services | 🔒 Private |
 
 ---
 
